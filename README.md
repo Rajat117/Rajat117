@@ -37,6 +37,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/-jira-black?style=flat-square&logo=jira)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)
+![K8s](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ###
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rajat117.Rajat117)
